@@ -2,7 +2,7 @@
 
 *Basic website written in HTML and vanilla CSS
 
-View it [here] (https://jsclampet.github.io/sdmm-first-assignment/)
+View it [here](https://jsclampet.github.io/sdmm-first-assignment/)
 
 ![preview](./src/Screenshot%202023-10-04%20at%206.42.33 PM.png)
 
