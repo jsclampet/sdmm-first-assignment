@@ -1,6 +1,6 @@
 # Personal Webpage
 
-*Basic website written in HTML and vanilla CSS
+*Basic website written in HTML and vanilla CSS*
 
 View it [here](https://jsclampet.github.io/sdmm-first-assignment/)
 
